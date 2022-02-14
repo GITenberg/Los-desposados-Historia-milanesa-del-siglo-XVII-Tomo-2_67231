@@ -1,0 +1,38 @@
+_repo: Los-desposados-Historia-milanesa-del-siglo-XVII-Tomo-2_67231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manzoni, Alessandro
+    birthdate: 1785
+    deathdate: 1873
+    gutenberg_agent_id: '37500'
+    url: http://www.gutenberg.org/2009/agents/37500
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Alessandro_Manzoni
+    - https://en.wikipedia.org/wiki/Alessandro_Manzoni
+description: Translation of second part of "I promessi sposi".
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67231'
+language: es
+pgterms:marc904: https://archive.org/details/losdesposadoshi00manzgoog/page/n12/mode/2up
+pgterms:marc905: 20201225134405manzoni
+pgterms:marc906: '1858'
+pgterms:marc907: MX
+production_note: Andrés V. Galia, Sanly Bowitts and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Mexico :Andrade y Escalante,1858.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milan (Italy) -- Fiction'
+- !lcsh 'Plague -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Italian fiction -- Translations into Spanish'
+- !lcc 'PQ'
+- !lcsh 'Italy -- History -- 1559-1789 -- Fiction'
+- GITenberg
+title: 'Los desposados: Historia milanesa del siglo XVII - Tomo 2'
+url: http://www.gutenberg.org/ebooks/67231
