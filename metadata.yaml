@@ -1,5 +1,8 @@
 _repo: Los-desposados-Historia-milanesa-del-siglo-XVII-Tomo-2_67231
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67231-h/images/cover.jpg
 creator:
   author:
     agent_name: Manzoni, Alessandro
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Alessandro_Manzoni
     - https://en.wikipedia.org/wiki/Alessandro_Manzoni
 description: Translation of second part of "I promessi sposi".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67231#Los-desposados-Historia-milanesa-del-siglo-XVII-Tomo-2
 gutenberg_issued: '2022-01-23'
 identifiers:
   gutenberg: '67231'
